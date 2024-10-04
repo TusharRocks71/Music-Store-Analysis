@@ -1,0 +1,24 @@
+                              Easy Questions
+
+Q1. Who is the senior most employee based on job title?
+A1. Mohan Madan is the senior most employee based on levels.
+
+Q2. Which countries have the most Invoices?
+A2. USA, with 131 invoices has the most invoices. 
+
+Q3. What are top 3 values of total invoice?
+A3. The top 3 values of total invoices are:
+1. 23.76
+2. 19.8
+3. 19.8
+
+Q4. Which city has the best customers? We would like to throw a promotional Music
+Festival in the city we made the most money. Write a query that returns one city that
+has the highest sum of invoice totals. Return both the city name & sum of all invoice
+totals.
+A4. The city Prague has the the best customers with total sum of invoices of amount to 273.24.
+
+Q5. Who is the best customer? The customer who has spent the most money will be
+declared the best customer. Write a query that returns the person who has spent the
+most money.
+A5. The best customer title goes to R Madhav. He has spend a total of 144.54 on the music.
